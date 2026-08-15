@@ -1,0 +1,69 @@
+============================================================
+🎵 کتابخانه موسیقی روبیکا
+============================================================
+🔑 GUID: uwmvvvwsbiyhsitvtilcncywmqgmmwyb
+🔗 لینک گپ: CBIIFF0PBZPXSHUQWBJXNMKJABMUHMGOEBNUDULKODSPVUVEUTNIQNISOKAMMJGQ       https://rubika.ir/joing/BBCBJHBCB0MASMSUPGMKAEXQBJNFKLOG
+============================================================
+✅ سیستم آماده است!
+📋 دستور 'راهنما' را وارد کنید
+============================================================
+
+📤 خروجی گوید:
+{
+  "status": "success",
+  "message": "🔑 GUID: uwmvvvwsbiyhsitvtilcncywmqgmmwyb",
+  "guid": "uwmvvvwsbiyhsitvtilcncywmqgmmwyb",
+  "gap_link": "CBIIFF0PBZPXSHUQWBJXNMKJABMUHMGOEBNUDULKODSPVUVEUTNIQNISOKAMMJGQ       https://rubika.ir/joing/BBCBJHBCB0MASMSUPGMKAEXQBJNFKLOG",  "data": {
+    "guid": "uwmvvvwsbiyhsitvtilcncywmqgmmwyb",
+    "gap_link": "CBIIFF0PBZPXSHUQWBJXNMKJABMUHMGOEBNUDULKODSPVUVEUTNIQNISOKAMMJGQ       https://rubika.ir/joing/BBCBJHBCB0MASMSUPGMKAEXQBJNFKLOG"
+  }
+}
+
+📤 خروجی اطلاعات:
+{
+  "status": "success",
+  "message": "📋 اطلاعات سیستم",
+  "guid": "uwmvvvwsbiyhsitvtilcncywmqgmmwyb",
+  "gap_link": "CBIIFF0PBZPXSHUQWBJXNMKJABMUHMGOEBNUDULKODSPVUVEUTNIQNISOKAMMJGQ       https://rubika.ir/joing/BBCBJHBCB0MASMSUPGMKAEXQBJNFKLOG",  "data": {
+    "guid": "uwmvvvwsbiyhsitvtilcncywmqgmmwyb",
+    "gap_link": "CBIIFF0PBZPXSHUQWBJXNMKJABMUHMGOEBNUDULKODSPVUVEUTNIQNISOKAMMJGQ       https://rubika.ir/joing/BBCBJHBCB0MASMSUPGMKAEXQBJNFKLOG",
+    "users": 3,
+    "music_count": 9,
+    "categories": [
+      "lori",
+      "pop",
+      "classic"
+    ],
+    "special_count": 4,
+    "active_calls": 0,
+    "language": "fa",
+    "public_access": true
+  }
+}
+
+📤 خروجی آهنگ لری:
+{
+  "status": "success",
+  "message": "🎵 در حال پخش: شب یلدا",
+  "guid": "uwmvvvwsbiyhsitvtilcncywmqgmmwyb",
+  "gap_link": "CBIIFF0PBZPXSHUQWBJXNMKJABMUHMGOEBNUDULKODSPVUVEUTNIQNISOKAMMJGQ       https://rubika.ir/joing/BBCBJHBCB0MASMSUPGMKAEXQBJNFKLOG",  "data": {
+    "music": {
+      "id": "2b43e5bc",
+      "name": "شب یلدا",
+      "path": "https://example.com/lori/shob_yalda.mp3",
+      "category": "lori",
+      "added_date": "2026-08-14T21:33:27.372490",
+      "plays": 0
+    },
+    "guid": "uwmvvvwsbiyhsitvtilcncywmqgmmwyb",
+    "gap_link": "CBIIFF0PBZPXSHUQWBJXNMKJABMUHMGOEBNUDULKODSPVUVEUTNIQNISOKAMMJGQ       https://rubika.ir/joing/BBCBJHBCB0MASMSUPGMKAEXQBJNFKLOG",
+    "player": "🎵 پخش خودکار"
+  }
+}
+
+============================================================
+✅ تمام خروجی‌ها با فرمت صحیح نمایش داده شدند!
+💡 هر خروجی شامل GUID و لینک گپ است
+============================================================
+
+[Program finished]
